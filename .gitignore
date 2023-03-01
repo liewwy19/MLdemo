@@ -17,6 +17,7 @@
 **/.terraform/*
 *.tfstate
 *.tfstate.*
+*.terraform.lock.hcl
 
 # misc
 .DS_Store
