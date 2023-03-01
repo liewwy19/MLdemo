@@ -6,7 +6,7 @@ on:
 env:
   AWS_REGION: ap-southeast-1
   ECS_CLUSTER: mldemo_cluster
-  CONTAINER_NAME: app
+  CONTAINER_NAME: mldemo
   ECS_SERVICE: mldemo_service
   ECS_TD: .github/workflows/td.json
 
