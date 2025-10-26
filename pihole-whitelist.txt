@@ -29,5 +29,3 @@ clients3.google.com
 connectivitycheck.gstatic.com
 zscaler.net
 avast.net
-(\.|^)zscaler\.net$
-(\.|^)avast\.net$
