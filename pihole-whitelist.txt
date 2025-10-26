@@ -27,5 +27,7 @@ connectivitycheck.android.com
 android.clients.google.com 
 clients3.google.com 
 connectivitycheck.gstatic.com
-*.zscaler.net
-*.avast.net
+zscaler.net
+avast.net
+(\.|^)zscaler\.net$
+(\.|^)avast\.net$
